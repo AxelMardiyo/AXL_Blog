@@ -21,3 +21,6 @@ Aplikasi ini memiliki berbagai fitur, yaitu:
 #### Admin
 - Dapat melakukan CRUD ke semua postingan
 - Dapat menambah dan menghapus Category
+
+### Note
+Silakan Registrasi terlebih dahulu sebelum membuat postingan
