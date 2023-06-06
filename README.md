@@ -17,6 +17,7 @@ Aplikasi ini memiliki berbagai fitur, yaitu:
 ### Role
 #### User
 - Dapat melakukan CRUD pada postingan
+- Untuk saat ini fitur upload image masih belum bekerja dengan baik, upload image tidaklah wajib, jika anda mengosongkan file image, image akan diisi otomatis menggunakan Unsplash dan tema image akan menyesuaikan dengan category yang dipilih
 
 #### Admin
 - Dapat melakukan CRUD ke semua postingan
